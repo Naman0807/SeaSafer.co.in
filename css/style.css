@@ -44,3 +44,8 @@ nav ul li {
 .containar {
 	min-height: calc(100vh - 58px - 12vh);
 }
+
+.logo {
+	margin-left: 36cm;
+	align-items: right;
+}
