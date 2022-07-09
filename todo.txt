@@ -1,0 +1,22 @@
+1. Home page
+
+2. About us
+
+3. Plan a Trip
+
+4. Top cruise
+
+5. All Destination
+
+6. Offers
+
+7. Manage Extra information 
+    >> Update guest information 
+    >> Dinning and lunch Passes 
+    >> Royel gifts
+
+8. Company Policy
+
+9. Contect us
+
+12. Login page

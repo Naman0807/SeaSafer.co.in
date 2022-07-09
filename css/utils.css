@@ -1,0 +1,7 @@
+.aligncenter {
+	height: 10.5vh;
+	padding: 3px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
